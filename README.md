@@ -11,16 +11,17 @@ print("Kategori usia:", kategoriUsia(usia))
 Masukkan usia Anda: 1
 Kategori usia: Anak-anak
 
-8. contoh return dari code nomor 8 
+## 🔢 8. contoh return
 Masukkan kalimat: fwawaijAWHjfh fwhiAIH FIO
 Jumlah huruf vokal: 9
 Jumlah huruf konsonan: 14
 Jumlah kata: 3
-9. return dari code nomor 9
+## 🔢 9. contoh return
 Saldo akhir: 130000
 Hari pengeluaran terbesar: Selasa
 Hari tanpa transaksi: Rabu
-10. return dari code nomor 10
+
+## 🔢 10. contoh return
 === Menu To-Do List ===
 1. Tambah Tugas Baru
 2. Ubah Status Tugas
